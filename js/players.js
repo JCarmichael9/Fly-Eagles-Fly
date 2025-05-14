@@ -2,36 +2,31 @@ const players = [
     {
         firstName: 'a',
         lastName: 's',
-        position: 'b',
-        age: 1,
+        side: 'b',
         photo: 'https://picsum.photos/300/300'
     },
     {
         firstName: 'p',
         lastName: 'l',
-        position: 'an',
-        age: 4,
+        side: 'an',
         photo: 'https://picsum.photos/300/300'
     },
     {
         firstName: 't',
         lastName: 'u',
-        position: 'l',
-        age: 6,
+        side: 'l',
         photo: 'https://picsum.photos/300/300'
     },
     {
         firstName: 'v',
         lastName: 'n',
-        position: 'j',
-        age: 2,
+        side: 'j',
         photo: 'https://picsum.photos/300/300'
     },
     {
         firstName: 'f',
         lastName: 'f',
-        position: 'f',
-        age: 4,
+        side: 'f',
         photo: 'https://picsum.photos/300/300'
     }
 ]
