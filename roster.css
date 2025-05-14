@@ -5,4 +5,6 @@
 .footer {
   color: #FFE81F;
   font-family: starwars;
+  position: absolute;
+  bottom: 0;
 }
