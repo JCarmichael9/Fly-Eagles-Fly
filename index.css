@@ -1,0 +1,24 @@
+@font-face {
+  font-family: starwars;
+  src: url("fonts/starjedi/Starjedi.ttf");
+}
+
+.welcome {
+  font-family: starwars;
+}
+
+.big {
+  height: 95vh;
+  width: 100vw;
+}
+
+.footer {
+  color: #FFE81F;
+  font-family: starwars;
+}
+
+.bg {
+  background-image: url(imgs/stars.jpg);
+  background-size: cover;
+  object-fit: cover;
+}
