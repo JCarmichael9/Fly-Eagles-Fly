@@ -1,0 +1,8 @@
+@font-face {
+  font-family: starwars;
+  src: url("fonts/starjedi/Starjedi.ttf");
+}
+.footer {
+  color: #FFE81F;
+  font-family: starwars;
+}

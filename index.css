@@ -5,6 +5,7 @@
 
 .welcome {
   font-family: starwars;
+  color: #FFE81F;
 }
 
 .big {
@@ -21,4 +22,24 @@
   background-image: url(imgs/stars.jpg);
   background-size: cover;
   object-fit: cover;
+}
+
+
+.popIn {
+  animation: popIn 0.6s ease-out forwards;
+}
+
+@keyframes popIn {
+  0% {
+    transform: scale(0.7);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1.1);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
 }
