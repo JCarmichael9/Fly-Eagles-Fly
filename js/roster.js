@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <img src="${p.photo}" alt="${p.firstName}'s Beautiful Face" class="card-img-top">
                     <div class="card-body text-center">
                     <h5 class="card-title mb-1">${p.firstName} ${p.lastName}</h5>
-                    <div class="badge badge-position badge-pos-${p.side}">${p.side}</div>
+                    <div>${p.side}</div>
                     </div>
             </div>
              `
