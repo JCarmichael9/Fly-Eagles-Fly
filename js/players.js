@@ -1,3 +1,5 @@
+//https://imgur.com/gallery/lego-star-wars-complete-saga-portraits-qH3ToL8//
+
 const players = [
   {
     funFact: "Obi-Wan Kenobi is a Light Side Jedi Master who trained Anakin and fought him before he turned to Darth Vader.",
