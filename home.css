@@ -6,3 +6,34 @@
   color: #FFE81F;
   font-family: starwars;
 }
+
+.bg {
+  min-height: 100vh;
+  background-image: url(imgs/bgIThink.jpg);
+  background-size: cover;
+  object-fit: cover;
+}
+#Logo{
+  width: 50px;
+}
+
+.nav-link {
+  color: #FFE81F;
+  font-family: starwars;
+}
+
+.nav-link:hover {
+  color: #c2b011;
+}
+
+
+.nav-link:focus,
+.nav-link.active {
+  color: #FFE81F ; 
+  text-decoration: none; 
+}
+
+.big {
+  height: 95vh;
+  width: 100vw;
+}
