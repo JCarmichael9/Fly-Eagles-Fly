@@ -3,7 +3,7 @@
 const players = [
   {
     funFact: "Obi-Wan Kenobi is a Light Side Jedi Master who trained Anakin and fought him before he turned to Darth Vader.",
-    photo: "https://i.imgur.com/Kx0mQ2x.png"
+    photo: "https://i.imgur.com/HP5n4nY.png"
   },
   {
     funFact: "Anakin Skywalker is a Dark Side Sith Lord formerly a Jedi, destined to become Darth Vader.",
