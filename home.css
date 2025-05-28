@@ -12,6 +12,7 @@
   background-image: url(imgs/bgIThink.jpg);
   background-size: cover;
   object-fit: cover;
+  overflow-x: hidden
 }
 #Logo{
   width: 50px;
@@ -65,4 +66,16 @@
 .background1 {
   background-color: rgba(255, 255, 255, 0.7); 
   border-radius: 10px;
+}
+
+button {
+ position: relative;
+ height: 70px;
+ font-family: starwars;
+ color: #FFE81F;
+}
+
+
+button:hover {
+ cursor: crosshair;
 }
