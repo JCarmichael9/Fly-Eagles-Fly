@@ -1,11 +1,11 @@
 const players = [
   {
-    funFact: "Obi-Wan Kenobi is a Light Side Jedi Master who trained Anakin and fought him before he turned to Darth Vader.",
+    funFact: "obi-Wan Kenobi is a Light Side Jedi Master who trained Anakin and fought him before he turned to Darth Vader.",
     photo: "imgs/obi.png",
-    firstName: "Obi-Wan"
+    firstName: "obi-Wan"
   },
   {
-    funFact: "Anakin Skywalker is a Dark Side Sith Lord formerly a Jedi, destined to become Darth Vader.",
+    funFact: "Anakin Skywalker is a Dark Side Sith Lord formerly a Jedi, destined to become Darth vader.",
     photo: "imgs/anakin.png",
     firstName: "Anakin"
   },
@@ -20,7 +20,7 @@ const players = [
     firstName: "Yoda"
   },
   {
-    funFact: "Darth Vader is a Dark Side Sith Lord and enforcer of the Emperor’s will.",
+    funFact: "Darth vader is a Dark Side Sith Lord and enforcer of the Emperor’s will.",
     photo: "imgs/vader.jpg",
     firstName: "Darth"
   },
@@ -80,9 +80,9 @@ const players = [
     firstName: "Darth"
   },
   {
-    funFact: "C-3PO is a protocol droid fluent in over six million forms of communication.",
+    funFact: "C-3P0 is a protocol droid fluent in over six million forms of communication.",
     photo: "imgs/c3p0.png",
-    firstName: "C-3PO"
+    firstName: "C-3Po"
   },
   {
     funFact: "R2-D2 is a resourceful astromech droid who often saves the heroes.",
@@ -119,5 +119,4 @@ const players = [
     photo: "imgs/watto.png",
     firstName: "Watto"
   },
-]
-   
+];

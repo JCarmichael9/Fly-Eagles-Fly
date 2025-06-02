@@ -55,3 +55,22 @@
     opacity: 1;
   }
 }
+
+.info {
+  color: #FFE81F;
+  font-family: starwars;
+}
+
+.border1 {
+  border: 10px dashed #FFE81F;
+}
+
+.border2 {
+  border: 5px solid #FFE81F;
+}
+
+.bigInfo {
+font-family: starwars;
+color: #FFE81F;
+
+}
